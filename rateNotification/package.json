@@ -1,0 +1,15 @@
+{
+  "name": "ratenotification",
+  "version": "1.0.0",
+  "description": "This web app is used to notify changes on rates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emanuel Villa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-session": "^1.17.3"
+  }
+}
