@@ -1,0 +1,11 @@
+{
+  "name": "findandmultiply",
+  "version": "1.0.0",
+  "description": "This script finds two numbers that added together are equivalent to 2022, and returns their multiplication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emanuel Villa",
+  "license": "ISC"
+}

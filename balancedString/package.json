@@ -1,0 +1,11 @@
+{
+  "name": "balancedstring",
+  "version": "1.0.0",
+  "description": "This script check if a string is balanced",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emanuel Villa",
+  "license": "ISC"
+}
